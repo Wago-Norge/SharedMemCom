@@ -15,4 +15,4 @@ Inter Process Communication between e!Cockpit and C-Application
 >*** CoDeSys 3.5 must be installed *** 
 >1. Install the .package with e!Cockpit (CoDeSys Packet Manager)
 >2. Find the CS3.5 project and C examples in the installation directory
->3. Export the Shm.lib in CoDeSys 3.5 and import in to e!Cockpit
+>3. Export the Shm.lib from CoDeSys 3.5 and import in to e!Cockpit
