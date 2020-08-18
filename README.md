@@ -9,7 +9,7 @@ Find the e!Cockpit example and C-application in this repo. Also find pre-built e
 This example shows how data can be exchanged between a CODESYS controller and other processes by means of shared memory.
 [CoDeSys 3.5 library](https://store.codesys.com/shared-memory-communication.html)
 
->The shared memory can be used to exchange data within a target system when no direct communication is possible, e.g. the data exchange with an external visualization. How to create this shared memory and how to read and write to it is shown in this example.
+The shared memory can be used to exchange data within a target system when no direct communication is possible, e.g. the data exchange with an external visualization. How to create this shared memory and how to read and write to it is shown in this example.
 [CoDeSys 3.5 library](https://store.codesys.com/shared-memory.html)
 
 *** CoDeSys 3.5 must be installed *** 
